@@ -124,7 +124,7 @@
   /* ---------- Contact form -> Google Sheets via Apps Script ---------- */
   // After deploying apps-script/Code.gs as a Web App ("Anyone" access),
   // paste the /exec URL below.
-  var SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+  var SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwRwFo9DQ4p18win90S-oGDar4D23hIX1JFnCL-Z21Ero5Vamymk7a50umrXa1MnEZB/exec';
 
   var form = document.getElementById('contactForm');
   if (form) {
